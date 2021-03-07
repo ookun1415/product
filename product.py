@@ -11,3 +11,6 @@ while True:
 print(product)
 
 product[0][0] #product清單第0格的第0格
+
+for a in product:
+	print(p[1], '的價格')
